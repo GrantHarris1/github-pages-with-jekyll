@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Here you are"
 ---
 
-I'm glad you are here. I plan to talk about ...
+ Dwight shcrute lives on a beet farm
